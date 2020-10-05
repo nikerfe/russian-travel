@@ -1,0 +1,36 @@
+.place {
+display: grid;
+grid-template-columns: 460px 1fr;
+gap: 48px 40px;
+box-sizing: border-box;
+justify-items: stretch;
+width: 100%;
+margin-bottom: 80px;
+}
+
+.place:last-child {
+margin-bottom: 0;
+}
+
+@media screen and (max-width:1183px) {
+    .place {
+grid-template-columns: 440px 1fr;
+gap: 48px 32px;
+    }
+}
+
+@media all and (max-width:1023px) {
+    .place {
+grid-template-columns: 340px 1fr;
+gap: 48px 28px;
+margin-bottom: 72px;
+    }
+}
+
+@media all and (max-width:767px) {
+    .place {
+grid-template-columns: 1fr;
+gap:0;
+margin-bottom: 48px;
+    }
+}
