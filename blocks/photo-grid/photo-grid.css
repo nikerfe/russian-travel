@@ -5,8 +5,8 @@
     align-items: stretch;
     justify-items: stretch;
     gap: 16px;
-    margin: 92px auto;
-    
+    padding: 92px 0 92px; 
+    margin: 0 auto;
 }
 
 @media screen and (max-width:1183px) {
@@ -20,7 +20,7 @@
     .photo-grid {
         max-width: calc(100% - 2 * 24px);
         gap: 16px;
-        margin: 88px auto;
+        padding: 88px 0 88px 0;
     }
 }
 
@@ -28,6 +28,6 @@
     .photo-grid {
         max-width: calc(100% - 2 * 16px);
         gap:12px;
-        margin: 64px auto;
+        padding: 64px 0 64px 0;
     }
 }

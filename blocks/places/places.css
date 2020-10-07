@@ -4,6 +4,7 @@
     align-items: center;
     justify-content: center;
     max-width: calc(100% - 100px * 2);
+    padding-bottom: 92px;
     margin: 0 auto;
 }
 
@@ -16,11 +17,13 @@
 @media all and (max-width:1023px) {
     .places {
         max-width: calc(100% - 2 * 24px);
+        padding-bottom: 88px;
     }
 }
 
 @media all and (max-width:767px) {
     .places {
         max-width: 100%;
+        padding-bottom: 64px;
     }
 }
