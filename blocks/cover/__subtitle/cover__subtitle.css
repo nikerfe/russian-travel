@@ -9,21 +9,20 @@
 
 @media all and (max-width:1183px) {
     .cover__subtitle {
-    max-width: calc(100% - 2 * 332px);
+        max-width: calc(100% - 2 * 332px);
     }
 }
 
 @media all and (max-width:1023px) {
     .cover__subtitle {
-    max-width: calc(100% - 2 * 204px);
+        max-width: calc(100% - 2 * 204px);
     }
 }
 
-
 @media all and (max-width:767px) {
     .cover__subtitle {
-    max-width: calc(100% - 2 * 16px);
-    font-size: 14px;
-    line-height: 16px;
+        max-width: calc(100% - 2 * 16px);
+        font-size: 14px;
+        line-height: 16px;
     }
 }

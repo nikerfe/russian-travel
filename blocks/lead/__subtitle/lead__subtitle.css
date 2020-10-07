@@ -10,26 +10,26 @@
 
 @media all and (max-width:1183px) {
     .lead__subtitle {
-    margin: 32px 0 56px 0;
-    max-width: calс(100% - 2 * 144px);
-    padding: 0 175px;
+        margin: 32px 0 56px 0;
+        max-width: calс(100% - 2 * 144px);
+        padding: 0 175px;
     }
 }
 
 @media all and (max-width:1023px) {
     .lead__subtitle {
-    margin: 32px 0 56px 0;
-    max-width: calс(100% - 2 * 73px);
-    padding: 0 100px;
+        margin: 32px 0 56px 0;
+        max-width: calс(100% - 2 * 73px);
+        padding: 0 100px;
     }
 }
 
 @media all and (max-width:767px) {
     .lead__subtitle {
-    max-width: calс(100% - 2 * 16px);
-    font-size: 16px;
-    line-height: 20px;
-    margin: 16px 0 40px 0;
-    padding: 0 50px;
+        max-width: calс(100% - 2 * 16px);
+        font-size: 16px;
+        line-height: 20px;
+        margin: 16px 0 40px 0;
+        padding: 0 50px;
     }
 }

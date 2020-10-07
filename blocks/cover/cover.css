@@ -2,6 +2,9 @@
     max-width: 100%;
     position: relative;
     margin: 92px 0 92px 0;
+    background-image: url('../../../russian-travel/images/cover-trains.jpg');
+    padding-bottom: 60.25%;
+    background-size: cover;    
 }
 
 @media all and (max-width:1023px) {

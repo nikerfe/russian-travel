@@ -17,8 +17,8 @@
 
 @media all and (max-width:767px) {
     .place__paragraph {
-    width: calc(100% - 2 * 16px);
-    margin: 32px auto 24px auto;
+        width: calc(100% - 2 * 16px);
+        margin: 32px auto 24px auto;
     }
 }
 

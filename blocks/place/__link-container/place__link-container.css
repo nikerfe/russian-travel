@@ -7,6 +7,6 @@
 
 @media all and (max-width:767px) {
     .place__link-container {
-display: none;
+        display: none;
     }
 }
