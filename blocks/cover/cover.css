@@ -2,7 +2,7 @@
     max-width: 100%;
     position: relative;
     margin: 0 auto;
-    background-image: url('../../../russian-travel/images/cover-trains.jpg');
+    background-image: url('../../images/cover-trains.jpg');
     padding-bottom: 60.25%;
     background-size: cover;    
 }
